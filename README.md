@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Djiddo
-- 👀 I’m interested in fornt-end development
+- 👀 I’m interested in front-end development
 - 🌱 I’m currently learning JavaScript and React
 - 💞️ I’m looking for a code partner for real projects
 - 📫 How to reach me? mhtsalehh7@gmail.com
